@@ -1,4 +1,4 @@
-# Kaggle
+# Project Python
 Start of data science projects
 
 **Rules**
